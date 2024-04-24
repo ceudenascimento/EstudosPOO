@@ -1,4 +1,4 @@
-package facade;
+package fachadas;
 
 import entity.Conta;
 import exception.ExcecaoElementoInexistente;
