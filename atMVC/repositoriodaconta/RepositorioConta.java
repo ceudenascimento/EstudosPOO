@@ -1,4 +1,4 @@
-package repository;
+package repositoriodaconta;
 
 import entity.Conta;
 import exception.ExcecaoElementoInexistente;
