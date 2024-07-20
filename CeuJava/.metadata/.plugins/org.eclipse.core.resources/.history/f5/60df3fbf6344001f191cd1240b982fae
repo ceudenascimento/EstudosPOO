@@ -1,0 +1,10 @@
+package encapsulamento;
+
+public class main {
+	public static void main(String[] args) {
+		Pet p1 = new Pet();
+		p1.setNome("Carol Conde");
+		p1.setTipo("Hiena");
+		System.out.printf("%s é uma %s ", p1.getNome(), p1.getTipo());
+	}
+}

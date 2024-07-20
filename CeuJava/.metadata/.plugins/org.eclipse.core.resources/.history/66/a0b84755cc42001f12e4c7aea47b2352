@@ -1,0 +1,9 @@
+package heranca2;
+
+public class Pessoa {
+	public String nome;
+	public int cpf;
+	public int telefone;
+	
+	public Pessoa()
+}

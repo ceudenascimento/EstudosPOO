@@ -1,0 +1,14 @@
+1721063084409	Delete element
+1721064823715	Rename type 'Faculdade'
+1721064858890	Delete element
+1721069060352	Rename type 'Tubarão'
+1721069078220	Delete element
+1721235387634	Rename type 'Casa'
+1721235614347	Encapsulate field 'nome, ...'
+1721235622063	Encapsulate field 'tipo, ...'
+1721235631484	Encapsulate field 'idade, ...'
+1721235635600	Encapsulate field 'vacinado, ...'
+1721235786007	Encapsulate field 'cor, ...'
+1721236373826	Encapsulate field 'padrinho, ...'
+1721236377981	Encapsulate field 'nomeDono, ...'
+1721236660512	Encapsulate field 'signo, ...'

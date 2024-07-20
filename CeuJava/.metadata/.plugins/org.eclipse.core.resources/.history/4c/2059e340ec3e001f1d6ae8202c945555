@@ -1,0 +1,6 @@
+package Metodos;
+
+public class Honda extends Carro{
+	private String motor;
+	 public Honda(){}
+}

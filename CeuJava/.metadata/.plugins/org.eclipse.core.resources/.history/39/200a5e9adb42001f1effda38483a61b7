@@ -1,0 +1,13 @@
+package heranca2;
+
+public class Pessoa {
+	public String nome;
+	public int cpf;
+	public int data_de_nascimento;
+	
+	public Pessoa(String _nome, int _cpf, int _data) {
+		this.nome=_nome;
+		this.cpf=_cpf;
+		this.data_de_nascimento=_data;
+	}
+}

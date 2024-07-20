@@ -1,0 +1,13 @@
+package Metodos;
+
+public class main {
+
+	public static void main(String[] args) {
+		CalcularMetodos calculadora1= new CalcularMetodos();
+		
+		int resultado1=calculadora1.subtrair(8, 18);
+		System.out.println(resultado1);
+
+	}
+
+}

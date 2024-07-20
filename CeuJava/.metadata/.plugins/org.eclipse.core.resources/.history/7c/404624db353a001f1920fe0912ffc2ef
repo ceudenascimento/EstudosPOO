@@ -1,0 +1,12 @@
+package Metodos;
+
+import java.util.Scanner;
+
+public class main {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("ESCOLHA: /n1 = Somar/n2 = Subtrair/n3 = Multiplicar/n4 = Dividir");
+
+	}
+
+}

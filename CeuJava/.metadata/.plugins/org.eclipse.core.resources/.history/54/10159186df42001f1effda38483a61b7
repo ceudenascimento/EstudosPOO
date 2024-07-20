@@ -1,0 +1,14 @@
+package polimorfismo2;
+
+public class retangulo extends Formas{
+	public double ladoesquerdo;
+	public double ladodireito;
+	public double base;
+	@Override
+	public double area() {
+		return (this.base*((this.ladoesquerdo+this.ladodireito+this.base)/2))/2;
+	}
+	public double altura() {
+		return (this.ladoesquerdo+this.ladodireito+this.base)/2;
+	}
+}

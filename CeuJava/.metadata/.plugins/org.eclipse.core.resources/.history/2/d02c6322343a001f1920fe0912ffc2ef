@@ -1,0 +1,13 @@
+package Metodos;
+
+public class main {
+
+	public static void main(String[] args) {
+		CalcularMetodos calculadora1= new CalcularMetodos();
+		
+		double resultado1=calculadora1.dividir(18, 18);
+		System.out.println(resultado1);
+
+	}
+
+}

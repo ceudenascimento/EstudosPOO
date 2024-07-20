@@ -1,0 +1,12 @@
+package poobasico;
+
+public class Honda extends Carro{
+	private String motor;
+	 public Honda(){}
+	public String getMotor() {
+		return motor;
+	}
+	public void setMotor(String motor) {
+		this.motor = motor;
+	}
+}

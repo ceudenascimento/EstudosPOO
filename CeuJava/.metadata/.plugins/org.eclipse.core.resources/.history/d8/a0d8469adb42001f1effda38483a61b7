@@ -1,0 +1,9 @@
+package heranca2;
+
+public class Aluno extends Pessoa{
+	public int matricula;
+	public Aluno(String _nome, int _cpf, int _telefone, int _matricula){
+		super(_nome, _cpf, _telefone);
+		this.matricula=_matricula;
+	}
+}

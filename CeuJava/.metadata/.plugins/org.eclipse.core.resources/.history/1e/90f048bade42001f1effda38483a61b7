@@ -1,0 +1,13 @@
+package polimorfismo2;
+
+public class main {
+
+	public static void main(String[] args) {
+		triangulo t1 = new triangulo(4.0, 5.0, 3.0);
+		
+		double alturat1=t1.altura();
+		System.out.println(alturat1);
+
+	}
+
+}
